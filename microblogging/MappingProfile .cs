@@ -10,8 +10,8 @@ namespace Microblogging.API
         public MappingProfile()
         {
             // Example mapping
-              CreateMap<AddNewPost_ReqModel, AddNewPost_ReqDto>().ReverseMap();
-
+            CreateMap<AddNewPost_ReqModel, AddNewPost_ReqDto>().ReverseMap();
+            CreateMap<AddNewPost_ResModel, AddNewPost_ResDto>().ReverseMap();
             CreateMap<AllPosts_ResModel, Posts_ResDto>().ReverseMap();
             CreateMap<Posts_ResDto, PostsModel>().ReverseMap();
             CreateMap<Login_ResModel, RefreshTokenDto>().ReverseMap();

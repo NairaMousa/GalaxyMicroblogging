@@ -254,3 +254,35 @@
 2025-06-09 21:57:27.2617 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
 2025-06-09 21:57:27.2838 Info Configuration initialized.
 2025-06-09 21:57:37.1112 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
+2025-06-09 22:10:55.0059 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'layout'='${longdate}|${uppercase:${level}}|${machinename}|${message} ${replace-newlines:${exception:format=toString}}' for element 'nlog'
+2025-06-09 22:10:55.1251 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2025-06-09 22:10:55.1343 Info Registered target NLog.Targets.FileTarget(Name=Error-log)
+2025-06-09 22:10:55.1343 Info Registered target NLog.Targets.NullTarget(Name=blackhole)
+2025-06-09 22:10:55.1467 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.5.0.3962. Product version: 5.5.0+1873145cbc26e0312d9481234d69ce7dc68aac4e. GlobalAssemblyCache: False
+2025-06-09 22:10:55.1840 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
+2025-06-09 22:10:55.2034 Info Configuration initialized.
+2025-06-09 22:10:55.8949 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
+2025-06-09 22:17:12.5510 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'layout'='${longdate}|${uppercase:${level}}|${machinename}|${message} ${replace-newlines:${exception:format=toString}}' for element 'nlog'
+2025-06-09 22:17:12.6629 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2025-06-09 22:17:12.6727 Info Registered target NLog.Targets.FileTarget(Name=Error-log)
+2025-06-09 22:17:12.6727 Info Registered target NLog.Targets.NullTarget(Name=blackhole)
+2025-06-09 22:17:12.6892 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.5.0.3962. Product version: 5.5.0+1873145cbc26e0312d9481234d69ce7dc68aac4e. GlobalAssemblyCache: False
+2025-06-09 22:17:12.7492 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
+2025-06-09 22:17:12.7827 Info Configuration initialized.
+2025-06-09 22:17:13.8456 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
+2025-06-09 22:22:17.7902 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'layout'='${longdate}|${uppercase:${level}}|${machinename}|${message} ${replace-newlines:${exception:format=toString}}' for element 'nlog'
+2025-06-09 22:22:17.8954 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2025-06-09 22:22:17.8954 Info Registered target NLog.Targets.FileTarget(Name=Error-log)
+2025-06-09 22:22:17.8954 Info Registered target NLog.Targets.NullTarget(Name=blackhole)
+2025-06-09 22:22:17.9139 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.5.0.3962. Product version: 5.5.0+1873145cbc26e0312d9481234d69ce7dc68aac4e. GlobalAssemblyCache: False
+2025-06-09 22:22:17.9426 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
+2025-06-09 22:22:17.9611 Info Configuration initialized.
+2025-06-09 22:22:18.8455 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
+2025-06-09 22:24:03.2339 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'layout'='${longdate}|${uppercase:${level}}|${machinename}|${message} ${replace-newlines:${exception:format=toString}}' for element 'nlog'
+2025-06-09 22:24:03.3541 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2025-06-09 22:24:03.3679 Info Registered target NLog.Targets.FileTarget(Name=Error-log)
+2025-06-09 22:24:03.3679 Info Registered target NLog.Targets.NullTarget(Name=blackhole)
+2025-06-09 22:24:03.3679 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.5.0.3962. Product version: 5.5.0+1873145cbc26e0312d9481234d69ce7dc68aac4e. GlobalAssemblyCache: False
+2025-06-09 22:24:03.4229 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config
+2025-06-09 22:24:03.4502 Info Configuration initialized.
+2025-06-09 22:24:04.4289 Info Validating config: TargetNames=allfile, Error-log, blackhole, ConfigItems=83, FilePath=C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\microblogging\bin\Debug\net8.0\nlog.config

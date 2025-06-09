@@ -53,8 +53,8 @@ namespace Microblogging.API.Controllers
 
 
                     var response = await _postService.AddNewPost(_mapper.Map<AddNewPost_ReqDto>(_ReqModel), UserName, ImagePath);
-                    var result = _mapper.Map<APIResponse<AddNewPost_ResModel>>(response);
-                    return StatusCode((int)result.StatusCode, result);
+                   // var result = _mapper.Map<APIResponse<AddNewPost_ResModel>>(response);
+                    return StatusCode((int)response.StatusCode, response);
                 }
                 else
                     return BadRequest(ModelState);

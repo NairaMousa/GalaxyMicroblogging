@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microblogging.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd2159e776902632ba8eee14716972c280ba48c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7cb540559375d12981e524aad320ba64af493cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microblogging.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microblogging.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
