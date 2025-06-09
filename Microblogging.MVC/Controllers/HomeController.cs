@@ -17,10 +17,10 @@ namespace Microblogging.MVC.Controllers
         private readonly MVCAppSettings _appSettings;
         protected readonly IConfiguration _configuration;
         private readonly IWebHostEnvironment _env;
-        public HomeController(IWebHostEnvironment env, ILogger<AccountController> logger, HttpClient httpClient, IConfiguration configuration)
+        public HomeController(IWebHostEnvironment env, ILogger<AccountController> logger, IHttpClientFactory factory, IConfiguration configuration)
         {
             _logger = logger;
-            _httpClient = httpClient;
+            _httpClient = factory.CreateClient("ApiClient");
             _configuration = configuration;
             _appSettings = _configuration.GetSection("APPSettings").Get<MVCAppSettings>();
             _env = env;
@@ -30,9 +30,9 @@ namespace Microblogging.MVC.Controllers
         public async Task<IActionResult> Index()
         {
 
-            var token = HttpContext.Session.GetString("AuthToken");
-            _httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
-            var response = await _httpClient.GetAsync(_appSettings.APIBaseURL + "/Posts/GetAllPosts");
+          //  var token = HttpContext.Session.GetString("AuthToken");
+           // _httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+            var response = await _httpClient.GetAsync(_appSettings.APIBaseURL+ "/Posts/GetAllPosts");
 
             if (response.IsSuccessStatusCode == true)
             {
@@ -51,6 +51,8 @@ namespace Microblogging.MVC.Controllers
                 else
                     return View();
             }
+
+            
             else
                 return View();
         }

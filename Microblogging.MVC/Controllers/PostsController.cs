@@ -72,7 +72,7 @@ namespace Microblogging.MVC.Controllers
                     content.Add(new StringContent(_model.Text), "Text");
 
 
-                    var response = await _httpClient.PostAsync(_appSettings.APIBaseURL + "/Posts/AddNewPost", content);
+                    var response = await _httpClient.PostAsync(_appSettings.APIBaseURL+ "/Posts/AddNewPost", content);
 
                     if (response.IsSuccessStatusCode == true)
                     {

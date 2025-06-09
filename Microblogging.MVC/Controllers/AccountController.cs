@@ -43,7 +43,7 @@ namespace Microblogging.MVC.Controllers
                     var json = JsonSerializer.Serialize(_model);
                     var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-                    var response = await _httpClient.PostAsync(_appSettings.APIBaseURL + "/Users/Login", content);
+                    var response = await _httpClient.PostAsync(_appSettings.APIBaseURL+"/Users/Login", content);
                     if(response.StatusCode==System.Net.HttpStatusCode.OK) 
                         {
                         var jsonResult = await response.Content.ReadAsStringAsync();

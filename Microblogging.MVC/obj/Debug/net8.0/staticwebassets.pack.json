@@ -1,623 +1,623 @@
 {
   "Files": [
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Microblogging.MVC.bundle.scp.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Microblogging.MVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\Microblogging.MVC.efu1k60mko.bundle.scp.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\css\\style.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\css\\style.css.map",
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\bootstrap\\bootstrap.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\bootstrap\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\LICENSE.txt",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\LICENSE.txt",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\LICENSE.txt"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\all.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\all.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\all.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\all.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\all.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\all.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\brands.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\brands.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\brands.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\brands.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\brands.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\fontawesome.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\fontawesome.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\fontawesome.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\fontawesome.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\regular.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\regular.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\regular.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\regular.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\regular.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\solid.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\solid.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\solid.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\solid.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\solid.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\svg-with-js.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\svg-with-js.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\svg-with-js.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\v4-shims.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\v4-shims.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\v4-shims.min.css",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\v4-shims.min.css"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\all.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\all.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\all.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\all.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\all.min.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\all.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\brands.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\brands.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\brands.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\brands.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\brands.min.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\brands.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\conflict-detection.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\conflict-detection.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\conflict-detection.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\conflict-detection.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\conflict-detection.min.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\conflict-detection.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\fontawesome.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\fontawesome.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\fontawesome.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\fontawesome.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\fontawesome.min.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\fontawesome.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\regular.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\regular.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\regular.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\regular.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\regular.min.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\regular.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\solid.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\solid.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\solid.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\solid.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\solid.min.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\solid.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\v4-shims.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\v4-shims.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\v4-shims.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\v4-shims.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\js\\v4-shims.min.js",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\js\\v4-shims.min.js"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_animated.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_animated.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_animated.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_bordered-pulled.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_bordered-pulled.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_bordered-pulled.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_core.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_core.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_core.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_fixed-width.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_fixed-width.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_fixed-width.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_icons.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_icons.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_icons.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_larger.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_larger.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_larger.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_list.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_list.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_list.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_mixins.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_mixins.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_mixins.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_rotated-flipped.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_rotated-flipped.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_rotated-flipped.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_screen-reader.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_screen-reader.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_screen-reader.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_shims.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_shims.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_shims.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_stacked.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_stacked.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_stacked.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_variables.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\_variables.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\_variables.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\brands.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\brands.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\brands.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\fontawesome.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\fontawesome.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\fontawesome.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\regular.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\regular.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\regular.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\solid.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\solid.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\solid.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\v4-shims.less",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\less\\v4-shims.less",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\less\\v4-shims.less"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\categories.yml",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\categories.yml",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\metadata\\categories.yml"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\icons.json",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\icons.json",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\metadata\\icons.json"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\icons.yml",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\icons.yml",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\metadata\\icons.yml"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\shims.json",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\shims.json",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\metadata\\shims.json"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\shims.yml",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\shims.yml",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\metadata\\shims.yml"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\sponsors.yml",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\metadata\\sponsors.yml",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\metadata\\sponsors.yml"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\sprites\\brands.svg",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\sprites\\brands.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\sprites\\brands.svg"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\sprites\\regular.svg",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\sprites\\regular.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\sprites\\regular.svg"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\sprites\\solid.svg",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\sprites\\solid.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\sprites\\solid.svg"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\arrow-right.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\arrow-right.png",
       "PackagePath": "staticwebassets\\plugins\\images\\arrow-right.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\author-sm.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\author-sm.png",
       "PackagePath": "staticwebassets\\plugins\\images\\author-sm.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\author.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\author.png",
       "PackagePath": "staticwebassets\\plugins\\images\\author.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\chevron-down.svg",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\chevron-down.svg",
       "PackagePath": "staticwebassets\\plugins\\images\\chevron-down.svg"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\favicon.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\favicon.png",
       "PackagePath": "staticwebassets\\plugins\\images\\favicon.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\loader.svg",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\loader.svg",
       "PackagePath": "staticwebassets\\plugins\\images\\loader.svg"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\logo.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\logo.png",
       "PackagePath": "staticwebassets\\plugins\\images\\logo.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-lg\\01.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-lg\\01.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-lg\\01.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-lg\\02.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-lg\\02.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-lg\\02.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-lg\\03.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-lg\\03.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-lg\\03.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-md\\01.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-md\\01.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-md\\01.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-md\\02.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-md\\02.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-md\\02.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-md\\03.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-md\\03.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-md\\03.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-single\\01.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-single\\01.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-single\\01.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-sm\\01.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-sm\\01.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-sm\\01.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-sm\\02.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-sm\\02.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-sm\\02.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-sm\\03.png",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\images\\post\\post-sm\\03.png",
       "PackagePath": "staticwebassets\\plugins\\images\\post\\post-sm\\03.png"
     },
     {
-      "Id": "D:\\microblogging\\Microblogging.MVC\\wwwroot\\plugins\\jQuery\\jquery.min.js",
+      "Id": "C:\\Users\\naira.mousa.ITSC-EGYPT\\source\\repos\\GalaxyMicroblogging\\Microblogging.MVC\\wwwroot\\plugins\\jQuery\\jquery.min.js",
       "PackagePath": "staticwebassets\\plugins\\jQuery\\jquery.min.js"
     },
     {

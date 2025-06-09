@@ -91,7 +91,7 @@ namespace Microblogging.API.Controllers
 
 
         [HttpPost("refresh")]
-        public async Task<ActionResult<APIResponse<Login_ResModel>>> Refresh(string refreshtokn)
+        public async Task<ActionResult<APIResponse<Login_ResModel>>> Refresh([FromBody] string refreshtokn)
         {
 
 

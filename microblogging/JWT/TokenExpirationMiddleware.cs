@@ -1,4 +1,5 @@
-﻿using Microblogging.Service.IServices;
+﻿using Microblogging.Helper.Enums;
+using Microblogging.Service.IServices;
 using Microsoft.Extensions.Azure;
 using System.IdentityModel.Tokens.Jwt;
 
@@ -31,8 +32,8 @@ namespace Microblogging.API.JWT
                     var jwtToken = tokenHandler.ReadJwtToken(token);
                     var exp = jwtToken.ValidTo;
 
-                    if (DateTime.UtcNow > exp)
-                    {
+                    //if (DateTime.UtcNow > exp)
+                    //{
 
 
                         //  var refreshToken = context.Request.Cookies["refreshToken"];
@@ -61,15 +62,15 @@ namespace Microblogging.API.JWT
                         _logger.LogWarning("Access token is expired.");
 
                         context.Response.StatusCode = 403;
-                        await context.Response.WriteAsync("Access token expired. Please refresh.");
+                        await context.Response.WriteAsync(TokenEnum.RefreshToken.ToString());
                         return;
-                    }
+                    //}
                 }
                 catch (Exception ex)
                 {
                     _logger.LogError("Invalid token: " + ex.Message);
                     context.Response.StatusCode = 401;
-                    await context.Response.WriteAsync("Invalid access token.");
+                    await context.Response.WriteAsync(TokenEnum.InvalidToken.ToString());
                     return;
                 }
             }

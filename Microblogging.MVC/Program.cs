@@ -1,5 +1,8 @@
 
 using Microblogging.Helper.Models;
+using Microblogging.MVC.TokenService;
+using Microblogging.Service.Services;
+using Microblogging.Services.IService;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using NLog.Web;
 
@@ -9,6 +12,17 @@ var logger = NLog.Web.NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLo
 try
 {
     var builder = WebApplication.CreateBuilder(args);
+    builder.Services.AddHttpContextAccessor();
+    builder.Services.AddScoped<ITokenService, TokenService>();
+    builder.Services.AddTransient<AuthHandler>();
+
+    builder.Services.AddHttpClient("ApiClient")
+        .AddHttpMessageHandler<AuthHandler>();
+    var baseURL = builder.Configuration["AppSettings:APIBaseURL"].ToString();
+    builder.Services.AddHttpClient("TokenClient", client =>
+    {
+        client.BaseAddress = new Uri(baseURL);
+    });
 
     // Add authentication services
     builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
@@ -25,9 +39,10 @@ try
     builder.Services.AddSession();
     builder.WebHost.UseWebRoot("wwwroot");
     builder.Services.AddHttpContextAccessor();
-    builder.Services.AddHttpClient();
+
     // Add services to the container.
     builder.Services.AddControllersWithViews();
+  
     builder.Services.Configure<MVCAppSettings>(builder.Configuration.GetSection("AppSettings"));
     var app = builder.Build();
 

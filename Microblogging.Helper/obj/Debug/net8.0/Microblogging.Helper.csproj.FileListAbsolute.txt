@@ -10,3 +10,16 @@ D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\refint\Microblogging.Help
 D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.pdb
 D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\ref\Microblogging.Helper.dll
 D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.csproj.AssemblyReference.cache
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\bin\Debug\net8.0\Microblogging.Helper.deps.json
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\bin\Debug\net8.0\Microblogging.Helper.dll
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\bin\Debug\net8.0\Microblogging.Helper.pdb
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.csproj.AssemblyReference.cache
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.AssemblyInfoInputs.cache
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.AssemblyInfo.cs
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.csproj.CoreCompileInputs.cache
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.sourcelink.json
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.dll
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\refint\Microblogging.Helper.dll
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.pdb
+C:\Users\naira.mousa.ITSC-EGYPT\source\repos\GalaxyMicroblogging\Microblogging.Helper\obj\Debug\net8.0\ref\Microblogging.Helper.dll

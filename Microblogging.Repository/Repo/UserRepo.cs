@@ -57,7 +57,7 @@ namespace Microblogging.Repository.Repo
 
         public async Task<string> ValidateRefreshToken(string refreshToken)
         {
-            var refreshtokenobj = await _context.RefreshTokens.Where(x => x.RefreshToken1 == refreshToken).FirstOrDefaultAsync();
+            var refreshtokenobj = await _context.RefreshTokens.Where(x => x.RefreshToken1 == refreshToken).Include(x=>x.FkUser).FirstOrDefaultAsync();
             if (refreshtokenobj != null)
             {
                 return refreshtokenobj.FkUser.Username;

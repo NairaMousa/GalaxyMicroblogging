@@ -153,7 +153,7 @@ try
     }
 
     app.UseHttpsRedirection();
-    app.UseMiddleware<TokenExpirationMiddleware>();
+    //app.UseMiddleware<TokenExpirationMiddleware>();
     app.UseAuthentication();
     app.UseAuthorization();
 
