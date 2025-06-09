@@ -1,0 +1,12 @@
+D:\microblogging\Microblogging.Helper\bin\Debug\net8.0\Microblogging.Helper.deps.json
+D:\microblogging\Microblogging.Helper\bin\Debug\net8.0\Microblogging.Helper.dll
+D:\microblogging\Microblogging.Helper\bin\Debug\net8.0\Microblogging.Helper.pdb
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.AssemblyInfoInputs.cache
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.AssemblyInfo.cs
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.csproj.CoreCompileInputs.cache
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.dll
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\refint\Microblogging.Helper.dll
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.pdb
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\ref\Microblogging.Helper.dll
+D:\microblogging\Microblogging.Helper\obj\Debug\net8.0\Microblogging.Helper.csproj.AssemblyReference.cache

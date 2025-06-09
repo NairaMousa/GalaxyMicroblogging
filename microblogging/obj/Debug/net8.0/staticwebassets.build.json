@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UovlwaKccZdXT38YW95cvrU1Tywn604rmlXBTLbxGg0=",
+  "Source": "Microblogging.API",
+  "BasePath": "_content/Microblogging.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

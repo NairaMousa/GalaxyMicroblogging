@@ -1,0 +1,114 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <!-- ** Plugins Needed for the Project ** -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/plugins/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="~/plugins/fontawesome/css/all.css">
+
+    <!-- Main Stylesheet -->
+    <link href="~/css/style.css" rel="stylesheet">
+
+    <!--Favicon-->
+
+    <link rel="shortcut icon" href="~/plugins/images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="~/plugins/images/favicon.png" type="image/x-icon">
+
+
+</head>
+<body>
+    <!-- START preloader-wrapper -->
+    <div class="preloader-wrapper">
+        <div class="preloader-inner">
+            <div class="spinner-border text-red"></div>
+        </div>
+    </div>
+
+    <!-- START main-wrapper -->
+    <section class="d-flex">
+
+        <!-- start of sidenav -->
+        <aside>
+            <div class="sidenav position-sticky d-flex flex-column justify-content-between">
+                <a class="navbar-brand" href="index.html" class="logo">
+                    <img src="~/plugins/images/logo.png" alt="">
+                </a>
+                <!-- end of navbar-brand -->
+
+
+                @{
+                    var UserName = HttpContextAccessor.HttpContext.Session.GetString("UserName");
+
+                    if (UserName != null)
+                    {
+                        <h5> Hi @UserName</h5>
+                    }
+                }
+                    
+                
+                <div class="navbar navbar-dark my-4 p-0 font-primary">
+                    <ul class="navbar-nav w-100">
+                        <li class="nav-item active">
+                            <a class="nav-link text-white px-0 pt-0" href="~/Home/Index">Home</a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link text-white px-0" href="~/Posts/AddPost">New Post</a>
+                        </li>
+
+                        <li class="nav-item ">
+                            <a class="nav-link text-white px-0" href="~/Account/Logout">Logout</a>
+                        </li>
+                       
+                     
+                    </ul>
+                </div>
+                <!-- end of navbar -->
+
+                <ul class="list-inline nml-2">
+                    <li class="list-inline-item">
+                        <a href="#!" class="text-white text-red-onHover pr-2">
+                            <span class="fab fa-twitter"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#!" class="text-white text-red-onHover p-2">
+                            <span class="fab fa-facebook-f"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#!" class="text-white text-red-onHover p-2">
+                            <span class="fab fa-instagram"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#!" class="text-white text-red-onHover p-2">
+                            <span class="fab fa-linkedin-in"></span>
+                        </a>
+                    </li>
+                </ul>
+                <!-- end of social-links -->
+            </div>
+        </aside>
+
+
+        <div class="main-content">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+      
+
+        </section>
+    <script src="~/plugins/jQuery/jquery.min.js"></script>
+    <script src="~/plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="~/js/script.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "microblogging\\Microblogging.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Microblogging.MVC\\Microblogging.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

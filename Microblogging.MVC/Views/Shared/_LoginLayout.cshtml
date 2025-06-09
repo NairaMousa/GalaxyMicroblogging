@@ -1,0 +1,49 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <!-- ** Plugins Needed for the Project ** -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/plugins/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="~/plugins/fontawesome/css/all.css">
+
+    <!-- Main Stylesheet -->
+    <link href="~/css/style.css" rel="stylesheet">
+
+    <!--Favicon-->
+
+    <link rel="shortcut icon" href="~/plugins/images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="~/plugins/images/favicon.png" type="image/x-icon">
+
+
+</head>
+<body>
+    <!-- START preloader-wrapper -->
+    <div class="preloader-wrapper">
+        <div class="preloader-inner">
+            <div class="spinner-border text-red"></div>
+        </div>
+    </div>
+
+    
+     <center>
+        <div class="main-content">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </center>
+
+
+    
+    <script src="~/plugins/jQuery/jquery.min.js"></script>
+    <script src="~/plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="~/js/script.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

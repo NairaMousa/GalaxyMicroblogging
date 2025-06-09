@@ -1,0 +1,21 @@
+﻿@model Microblogging.MVC.Models.Users.LoginModel
+
+
+@{
+    Layout = "_LoginLayout";
+}
+<center>
+<div class="widget bg-dark p-4 text-center">
+    <h2 class="widget-title text-white d-inline-block mt-4">Login</h2>
+    <p class="mt-4">Lorem ipsum dolor sit coectetur elit. Tincidu nfywjt leo mi, urna. Arcu ve isus, condimentum ut vulpate cursus por.</p>
+    <form action="~/Account/Login" method="post" >
+        <div class="form-group">
+            <input type="text" name="UserName" class="form-control bg-transparent rounded-0 my-4" placeholder="User Name">
+            <span asp-validation-for="UserName" class="text-danger"></span>
+            <input type="password" name="Password" class="form-control bg-transparent rounded-0 my-4" placeholder="Password">
+            <span asp-validation-for="Password" class="text-danger"></span>
+            <button type="submit" class="btn btn-primary">Login <img src="~/plugins/images/arrow-right.png" alt=""></button>
+        </div>
+    </form>
+</div>
+</center>

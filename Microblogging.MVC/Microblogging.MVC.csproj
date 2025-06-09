@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.24.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.3.0" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Microblogging.Helper\Microblogging.Helper.csproj" />
+    <ProjectReference Include="..\Microblogging.Service\Microblogging.Service.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,730 @@
+2025-06-09 18:54:30.8695|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Posts/AddPost.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_LoginLayout.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2025-06-09 18:54:30.9059|DEBUG|NMOUSA|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2025-06-09 18:54:31.0261|DEBUG|NMOUSA|Hosting starting 
+2025-06-09 18:54:31.0654|INFO|NMOUSA|User profile is available. Using 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-06-09 18:54:31.0742|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-3d35feb8-71e6-4e96-b8f4-bf53e43234fd.xml'. 
+2025-06-09 18:54:31.0742|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-6dcb7008-2e7b-4286-aac4-14be5c0e5ffb.xml'. 
+2025-06-09 18:54:31.0742|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-d0f7c814-a22c-485f-93fe-2d1af7948711.xml'. 
+2025-06-09 18:54:31.0742|DEBUG|NMOUSA|Found key {3d35feb8-71e6-4e96-b8f4-bf53e43234fd}. 
+2025-06-09 18:54:31.0742|DEBUG|NMOUSA|Found key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb}. 
+2025-06-09 18:54:31.0742|DEBUG|NMOUSA|Found key {d0f7c814-a22c-485f-93fe-2d1af7948711}. 
+2025-06-09 18:54:31.0946|DEBUG|NMOUSA|Considering key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with expiration date 2025-07-22 09:18:18Z as default key. 
+2025-06-09 18:54:31.0946|DEBUG|NMOUSA|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-06-09 18:54:31.0946|DEBUG|NMOUSA|Decrypting secret element using Windows DPAPI. 
+2025-06-09 18:54:31.0946|DEBUG|NMOUSA|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-06-09 18:54:31.1046|DEBUG|NMOUSA|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2025-06-09 18:54:31.1046|DEBUG|NMOUSA|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2025-06-09 18:54:31.1046|DEBUG|NMOUSA|Using key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} as the default key. 
+2025-06-09 18:54:31.1046|DEBUG|NMOUSA|Key ring with default key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} was loaded during application startup. 
+2025-06-09 18:54:31.1046|DEBUG|NMOUSA|Middleware loaded 
+2025-06-09 18:54:31.1046|DEBUG|NMOUSA|Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16519 B). 
+2025-06-09 18:54:31.1046|DEBUG|NMOUSA|Middleware loaded. Script /_framework/blazor-hotreload.js (799 B). 
+2025-06-09 18:54:31.1544|DEBUG|NMOUSA|Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true 
+2025-06-09 18:54:31.2804|INFO|NMOUSA|Now listening on: https://localhost:7162 
+2025-06-09 18:54:31.2804|INFO|NMOUSA|Now listening on: http://localhost:5051 
+2025-06-09 18:54:31.2804|DEBUG|NMOUSA|Loaded hosting startup assembly Microblogging.MVC 
+2025-06-09 18:54:31.2804|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2025-06-09 18:54:31.2804|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2025-06-09 18:54:31.2804|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2025-06-09 18:54:31.3676|INFO|NMOUSA|Application started. Press Ctrl+C to shut down. 
+2025-06-09 18:54:31.3676|INFO|NMOUSA|Hosting environment: Development 
+2025-06-09 18:54:31.3676|INFO|NMOUSA|Content root path: D:\microblogging\Microblogging.MVC 
+2025-06-09 18:54:31.3676|DEBUG|NMOUSA|Hosting started 
+2025-06-09 18:54:31.5288|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI6" received FIN. 
+2025-06-09 18:54:31.5288|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI5" received FIN. 
+2025-06-09 18:54:31.5288|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI6" accepted. 
+2025-06-09 18:54:31.5288|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI5" accepted. 
+2025-06-09 18:54:31.5288|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI6" started. 
+2025-06-09 18:54:31.5288|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI5" started. 
+2025-06-09 18:54:31.5538|DEBUG|NMOUSA|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.    at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)    at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)    at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-06-09 18:54:31.5538|DEBUG|NMOUSA|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.    at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)    at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)    at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-06-09 18:54:31.5885|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI5" stopped. 
+2025-06-09 18:54:31.5885|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI6" stopped. 
+2025-06-09 18:54:31.5885|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI5" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-06-09 18:54:31.5885|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI6" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-06-09 18:54:32.1668|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI7" accepted. 
+2025-06-09 18:54:32.1668|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI7" started. 
+2025-06-09 18:54:32.1846|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI8" accepted. 
+2025-06-09 18:54:32.1846|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI8" started. 
+2025-06-09 18:54:32.2372|DEBUG|NMOUSA|Connection 0HND7DNM5QFI7 established using the following protocol: Tls12 
+2025-06-09 18:54:32.2372|DEBUG|NMOUSA|Connection 0HND7DNM5QFI8 established using the following protocol: Tls12 
+2025-06-09 18:54:32.2697|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-06-09 18:54:32.2697|TRACE|NMOUSA|Connection id "0HND7DNM5QFI8" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-06-09 18:54:32.2753|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI8" received FIN. 
+2025-06-09 18:54:32.2753|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-06-09 18:54:32.2753|TRACE|NMOUSA|Connection id "0HND7DNM5QFI8" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-06-09 18:54:32.2753|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-06-09 18:54:32.2753|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2025-06-09 18:54:32.2753|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-06-09 18:54:32.2753|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received HEADERS frame for stream ID 3 with length 437 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 18:54:32.2753|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI8" is closed. The last processed stream ID was 0. 
+2025-06-09 18:54:32.2753|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI8" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-06-09 18:54:32.2753|DEBUG|NMOUSA|The connection queue processing loop for 0HND7DNM5QFI8 completed. 
+2025-06-09 18:54:32.2941|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI8" stopped. 
+2025-06-09 18:54:32.3150|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received WINDOW_UPDATE frame for stream ID 3 with length 4 and flags 0x0. 
+2025-06-09 18:54:32.3150|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2025-06-09 18:54:32.3451|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/ - - - 
+2025-06-09 18:54:32.5023|DEBUG|NMOUSA|Wildcard detected, all requests with hosts will be allowed. 
+2025-06-09 18:54:32.5023|TRACE|NMOUSA|All hosts are allowed. 
+2025-06-09 18:54:32.5221|DEBUG|NMOUSA|AuthenticationScheme: Cookies was not authenticated. 
+2025-06-09 18:54:32.5221|DEBUG|NMOUSA|The request path / does not match a supported file type 
+2025-06-09 18:54:32.5562|DEBUG|NMOUSA|1 candidate(s) found for the request path '/' 
+2025-06-09 18:54:32.5618|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/' 
+2025-06-09 18:54:32.5618|DEBUG|NMOUSA|Request matched endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:54:32.5618|TRACE|NMOUSA|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2025-06-09 18:54:32.5755|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'SessionMiddleware'). 
+2025-06-09 18:54:32.5755|INFO|NMOUSA|Executing endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:54:32.6430|INFO|NMOUSA|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC). 
+2025-06-09 18:54:32.6430|DEBUG|NMOUSA|Execution plan of authorization filters (in the following order): None 
+2025-06-09 18:54:32.6430|DEBUG|NMOUSA|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 18:54:32.6430|DEBUG|NMOUSA|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-06-09 18:54:32.6430|DEBUG|NMOUSA|Execution plan of exception filters (in the following order): None 
+2025-06-09 18:54:32.6430|DEBUG|NMOUSA|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 18:54:32.6430|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:32.6430|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:32.6518|DEBUG|NMOUSA|Executing controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 18:54:32.6775|DEBUG|NMOUSA|Executed controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 18:54:32.6775|TRACE|NMOUSA|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 18:54:32.6775|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:54:32.6775|TRACE|NMOUSA|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:54:32.6913|INFO|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) - Validation state: Valid 
+2025-06-09 18:54:32.7044|INFO|NMOUSA|Executed action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.0659ms. 
+2025-06-09 18:54:32.7044|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:54:32.7044|TRACE|NMOUSA|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:54:32.7044|TRACE|NMOUSA|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 18:54:32.7044|TRACE|NMOUSA|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:32.7044|TRACE|NMOUSA|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:32.7044|TRACE|NMOUSA|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-06-09 18:54:32.7147|DEBUG|NMOUSA|View lookup cache miss for view 'Login' in controller 'Account'. 
+2025-06-09 18:54:32.7147|TRACE|NMOUSA|Located compiled view for view at path '/Views/Account/Login.cshtml'. 
+2025-06-09 18:54:32.7147|TRACE|NMOUSA|Could not find a file for view at path '/Views/Account/_ViewStart.cshtml'. 
+2025-06-09 18:54:32.7147|TRACE|NMOUSA|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2025-06-09 18:54:32.7147|TRACE|NMOUSA|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2025-06-09 18:54:32.7319|INFO|NMOUSA|Executing ViewResult, running view Login. 
+2025-06-09 18:54:32.7319|DEBUG|NMOUSA|The view path '/Views/Account/Login.cshtml' was found in 19.49ms. 
+2025-06-09 18:54:32.7910|TRACE|NMOUSA|Performing unprotect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-06-09 18:54:32.7936|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-06-09 18:54:32.7936|DEBUG|NMOUSA|An antiforgery cookie token was reused. 
+2025-06-09 18:54:32.8134|DEBUG|NMOUSA|View lookup cache miss for view '_LoginLayout' in controller 'Account'. 
+2025-06-09 18:54:32.8134|TRACE|NMOUSA|Could not find a file for view at path '/Views/Account/_LoginLayout.cshtml'. 
+2025-06-09 18:54:32.8134|TRACE|NMOUSA|Located compiled view for view at path '/Views/Shared/_LoginLayout.cshtml'. 
+2025-06-09 18:54:32.8522|DEBUG|NMOUSA|Response markup is scheduled to include Browser Link script injection. 
+2025-06-09 18:54:32.8583|DEBUG|NMOUSA|Response markup is scheduled to include browser refresh script injection. 
+2025-06-09 18:54:32.8583|INFO|NMOUSA|Executed ViewResult - view Login executed in 151.13ms. 
+2025-06-09 18:54:32.8583|TRACE|NMOUSA|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-06-09 18:54:32.8583|TRACE|NMOUSA|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:32.8583|TRACE|NMOUSA|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:32.8583|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending HEADERS frame for stream ID 3 with length 104 and flags END_HEADERS. 
+2025-06-09 18:54:32.8583|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:32.8583|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 3 with length 2959 and flags NONE. 
+2025-06-09 18:54:32.8583|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:32.8583|INFO|NMOUSA|Executed action Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) in 217.43ms 
+2025-06-09 18:54:32.8583|INFO|NMOUSA|Executed endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:54:32.8583|DEBUG|NMOUSA|Response markup was updated to include Browser Link script injection. 
+2025-06-09 18:54:32.8583|DEBUG|NMOUSA|Response markup was updated to include browser refresh script injection. 
+2025-06-09 18:54:32.8697|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 3 with length 0 and flags END_STREAM. 
+2025-06-09 18:54:32.8697|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/ - 200 - text/html;+charset=utf-8 531.8203ms 
+2025-06-09 18:54:32.8968|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received HEADERS frame for stream ID 5 with length 96 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 18:54:32.8968|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received WINDOW_UPDATE frame for stream ID 5 with length 4 and flags 0x0. 
+2025-06-09 18:54:32.8968|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 
+2025-06-09 18:54:32.9007|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received HEADERS frame for stream ID 7 with length 56 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 18:54:32.9007|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received WINDOW_UPDATE frame for stream ID 7 with length 4 and flags 0x0. 
+2025-06-09 18:54:32.9007|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 
+2025-06-09 18:54:32.9007|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending HEADERS frame for stream ID 5 with length 60 and flags END_HEADERS. 
+2025-06-09 18:54:32.9007|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 5 with length 16384 and flags NONE. 
+2025-06-09 18:54:32.9007|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 5 with length 135 and flags NONE. 
+2025-06-09 18:54:32.9007|DEBUG|NMOUSA|Script injected: /_framework/aspnetcore-browser-refresh.js 
+2025-06-09 18:54:32.9007|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - 200 16519 application/javascript;+charset=utf-8 16.3520ms 
+2025-06-09 18:54:32.9007|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 5 with length 0 and flags END_STREAM. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending HEADERS frame for stream ID 7 with length 119 and flags END_HEADERS. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 9986 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0457|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0581|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0581|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0581|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0581|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0581|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 10240 and flags NONE. 
+2025-06-09 18:54:33.0581|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 1806 and flags NONE. 
+2025-06-09 18:54:33.0581|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" sending DATA frame for stream ID 7 with length 0 and flags END_STREAM. 
+2025-06-09 18:54:33.0581|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 160.1884ms 
+2025-06-09 18:54:43.7065|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received HEADERS frame for stream ID 9 with length 87 and flags END_HEADERS, PRIORITY. 
+2025-06-09 18:54:43.7065|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received WINDOW_UPDATE frame for stream ID 9 with length 4 and flags 0x0. 
+2025-06-09 18:54:43.7065|INFO|NMOUSA|Request starting HTTP/2 POST https://localhost:7162/Account/Login - application/x-www-form-urlencoded 213 
+2025-06-09 18:54:43.7065|TRACE|NMOUSA|Connection id "0HND7DNM5QFI7" received DATA frame for stream ID 9 with length 213 and flags END_STREAM. 
+2025-06-09 18:54:43.7252|TRACE|NMOUSA|All hosts are allowed. 
+2025-06-09 18:54:43.7252|DEBUG|NMOUSA|AuthenticationScheme: Cookies was not authenticated. 
+2025-06-09 18:54:43.7252|DEBUG|NMOUSA|POST requests are not supported 
+2025-06-09 18:54:43.7293|DEBUG|NMOUSA|2 candidate(s) found for the request path '/Account/Login' 
+2025-06-09 18:54:43.7293|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/Account/Login' 
+2025-06-09 18:54:43.7293|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/Account/Login' 
+2025-06-09 18:54:43.7293|DEBUG|NMOUSA|Request matched endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:54:43.7293|TRACE|NMOUSA|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2025-06-09 18:54:43.7293|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'SessionMiddleware'). 
+2025-06-09 18:54:43.7293|INFO|NMOUSA|Executing endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:54:43.7622|INFO|NMOUSA|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Microblogging.MVC.Models.Users.LoginModel) on controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC). 
+2025-06-09 18:54:43.7622|DEBUG|NMOUSA|Execution plan of authorization filters (in the following order): None 
+2025-06-09 18:54:43.7622|DEBUG|NMOUSA|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 18:54:43.7622|DEBUG|NMOUSA|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-06-09 18:54:43.7622|DEBUG|NMOUSA|Execution plan of exception filters (in the following order): None 
+2025-06-09 18:54:43.7622|DEBUG|NMOUSA|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 18:54:43.7622|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:43.7622|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:54:43.7622|DEBUG|NMOUSA|Executing controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 18:54:43.7622|DEBUG|NMOUSA|Executed controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 18:54:43.7777|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI7", Request id "0HND7DNM5QFI7:00000009": started reading request body. 
+2025-06-09 18:54:43.7777|DEBUG|NMOUSA|Connection id "0HND7DNM5QFI7", Request id "0HND7DNM5QFI7:00000009": done reading request body. 
+2025-06-09 18:54:43.7917|DEBUG|NMOUSA|Attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' ... 
+2025-06-09 18:54:43.7917|DEBUG|NMOUSA|Attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' using the name '' in request data ... 
+2025-06-09 18:54:43.7917|DEBUG|NMOUSA|Attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.UserName' of type 'System.String' using the name 'UserName' in request data ... 
+2025-06-09 18:54:43.8075|DEBUG|NMOUSA|Done attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.UserName' of type 'System.String'. 
+2025-06-09 18:54:43.8075|DEBUG|NMOUSA|Attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.Password' of type 'System.String' using the name 'Password' in request data ... 
+2025-06-09 18:54:43.8075|DEBUG|NMOUSA|Done attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.Password' of type 'System.String'. 
+2025-06-09 18:54:43.8075|DEBUG|NMOUSA|Done attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 18:54:43.8075|DEBUG|NMOUSA|Done attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 18:54:43.8075|DEBUG|NMOUSA|Attempting to validate the bound parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' ... 
+2025-06-09 18:54:43.8332|DEBUG|NMOUSA|Done attempting to validate the bound parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 18:54:43.8332|TRACE|NMOUSA|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 18:54:43.8332|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:54:43.8332|TRACE|NMOUSA|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:54:43.8332|INFO|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) - Validation state: Valid 
+2025-06-09 18:54:43.8332|TRACE|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) with arguments (Microblogging.MVC.Models.Users.LoginModel) 
+2025-06-09 18:54:43.8575|INFO|NMOUSA|Start processing HTTP request POST https://localhost:7040/api/Users/Login 
+2025-06-09 18:54:43.8575|TRACE|NMOUSA|Request Headers: Content-Type: application/json; charset=utf-8  
+2025-06-09 18:54:43.8575|INFO|NMOUSA|Sending HTTP request POST https://localhost:7040/api/Users/Login 
+2025-06-09 18:54:43.8575|TRACE|NMOUSA|Request Headers: Content-Type: application/json; charset=utf-8  
+2025-06-09 18:54:47.1288|INFO|NMOUSA|Received HTTP response headers after 3263.6504ms - 400 
+2025-06-09 18:54:47.1288|TRACE|NMOUSA|Response Headers: Date: Mon, 09 Jun 2025 15:54:46 GMT Server: Kestrel Transfer-Encoding: chunked Content-Type: application/problem+json; charset=utf-8  
+2025-06-09 18:54:47.1288|INFO|NMOUSA|End processing HTTP request after 3278.8656ms - 400 
+2025-06-09 18:54:47.1288|TRACE|NMOUSA|Response Headers: Date: Mon, 09 Jun 2025 15:54:46 GMT Server: Kestrel Transfer-Encoding: chunked Content-Type: application/problem+json; charset=utf-8  
+2025-06-09 18:57:14.1213|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'. 
+2025-06-09 18:57:14.1643|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'. 
+2025-06-09 18:57:14.1643|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'. 
+2025-06-09 18:57:14.1661|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Posts/AddPost.cshtml'. 
+2025-06-09 18:57:14.1661|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2025-06-09 18:57:14.1661|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_LoginLayout.cshtml'. 
+2025-06-09 18:57:14.1661|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2025-06-09 18:57:14.1661|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2025-06-09 18:57:14.1661|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2025-06-09 18:57:14.1661|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2025-06-09 18:57:14.1661|DEBUG|NMOUSA|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2025-06-09 18:57:14.2730|DEBUG|NMOUSA|Hosting starting 
+2025-06-09 18:57:14.3167|INFO|NMOUSA|User profile is available. Using 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-06-09 18:57:14.3264|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-3d35feb8-71e6-4e96-b8f4-bf53e43234fd.xml'. 
+2025-06-09 18:57:14.3264|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-6dcb7008-2e7b-4286-aac4-14be5c0e5ffb.xml'. 
+2025-06-09 18:57:14.3264|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-d0f7c814-a22c-485f-93fe-2d1af7948711.xml'. 
+2025-06-09 18:57:14.3264|DEBUG|NMOUSA|Found key {3d35feb8-71e6-4e96-b8f4-bf53e43234fd}. 
+2025-06-09 18:57:14.3384|DEBUG|NMOUSA|Found key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb}. 
+2025-06-09 18:57:14.3384|DEBUG|NMOUSA|Found key {d0f7c814-a22c-485f-93fe-2d1af7948711}. 
+2025-06-09 18:57:14.3384|DEBUG|NMOUSA|Considering key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with expiration date 2025-07-22 09:18:18Z as default key. 
+2025-06-09 18:57:14.3384|DEBUG|NMOUSA|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-06-09 18:57:14.3384|DEBUG|NMOUSA|Decrypting secret element using Windows DPAPI. 
+2025-06-09 18:57:14.3384|DEBUG|NMOUSA|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-06-09 18:57:14.3549|DEBUG|NMOUSA|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2025-06-09 18:57:14.3549|DEBUG|NMOUSA|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2025-06-09 18:57:14.3549|DEBUG|NMOUSA|Using key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} as the default key. 
+2025-06-09 18:57:14.3549|DEBUG|NMOUSA|Key ring with default key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} was loaded during application startup. 
+2025-06-09 18:57:14.3549|DEBUG|NMOUSA|Middleware loaded 
+2025-06-09 18:57:14.3549|DEBUG|NMOUSA|Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16519 B). 
+2025-06-09 18:57:14.3549|DEBUG|NMOUSA|Middleware loaded. Script /_framework/blazor-hotreload.js (799 B). 
+2025-06-09 18:57:14.4070|DEBUG|NMOUSA|Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true 
+2025-06-09 18:57:14.5116|INFO|NMOUSA|Now listening on: https://localhost:7162 
+2025-06-09 18:57:14.5116|INFO|NMOUSA|Now listening on: http://localhost:5051 
+2025-06-09 18:57:14.5116|DEBUG|NMOUSA|Loaded hosting startup assembly Microblogging.MVC 
+2025-06-09 18:57:14.5116|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2025-06-09 18:57:14.5116|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2025-06-09 18:57:14.5116|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2025-06-09 18:57:14.5840|INFO|NMOUSA|Application started. Press Ctrl+C to shut down. 
+2025-06-09 18:57:14.5840|INFO|NMOUSA|Hosting environment: Development 
+2025-06-09 18:57:14.5840|INFO|NMOUSA|Content root path: D:\microblogging\Microblogging.MVC 
+2025-06-09 18:57:14.5840|DEBUG|NMOUSA|Hosting started 
+2025-06-09 18:57:14.7043|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNV" accepted. 
+2025-06-09 18:57:14.7043|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNU" accepted. 
+2025-06-09 18:57:14.7043|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNU" started. 
+2025-06-09 18:57:14.7043|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNV" started. 
+2025-06-09 18:57:14.7238|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNV" received FIN. 
+2025-06-09 18:57:14.7238|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNU" received FIN. 
+2025-06-09 18:57:14.7377|DEBUG|NMOUSA|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.    at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)    at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)    at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-06-09 18:57:14.7377|DEBUG|NMOUSA|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.    at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)    at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)    at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-06-09 18:57:14.7713|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNU" stopped. 
+2025-06-09 18:57:14.7713|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNV" stopped. 
+2025-06-09 18:57:14.7713|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNV" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-06-09 18:57:14.7713|DEBUG|NMOUSA|Connection id "0HND7DP6PVKNU" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-06-09 18:57:15.0470|DEBUG|NMOUSA|Connection id "0HND7DP6PVKO0" accepted. 
+2025-06-09 18:57:15.0470|DEBUG|NMOUSA|Connection id "0HND7DP6PVKO0" started. 
+2025-06-09 18:57:15.1047|DEBUG|NMOUSA|Connection 0HND7DP6PVKO0 established using the following protocol: Tls12 
+2025-06-09 18:57:15.1379|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-06-09 18:57:15.1379|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-06-09 18:57:15.1379|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-06-09 18:57:15.1379|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2025-06-09 18:57:15.1379|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-06-09 18:57:15.1379|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received HEADERS frame for stream ID 3 with length 437 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 18:57:15.1678|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received WINDOW_UPDATE frame for stream ID 3 with length 4 and flags 0x0. 
+2025-06-09 18:57:15.1678|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2025-06-09 18:57:15.1985|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/ - - - 
+2025-06-09 18:57:15.3225|DEBUG|NMOUSA|Wildcard detected, all requests with hosts will be allowed. 
+2025-06-09 18:57:15.3225|TRACE|NMOUSA|All hosts are allowed. 
+2025-06-09 18:57:15.3225|DEBUG|NMOUSA|AuthenticationScheme: Cookies was not authenticated. 
+2025-06-09 18:57:15.3393|DEBUG|NMOUSA|The request path / does not match a supported file type 
+2025-06-09 18:57:15.3611|DEBUG|NMOUSA|1 candidate(s) found for the request path '/' 
+2025-06-09 18:57:15.3611|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/' 
+2025-06-09 18:57:15.3611|DEBUG|NMOUSA|Request matched endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:57:15.3611|TRACE|NMOUSA|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2025-06-09 18:57:15.3730|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'SessionMiddleware'). 
+2025-06-09 18:57:15.3730|INFO|NMOUSA|Executing endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:57:15.4122|INFO|NMOUSA|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC). 
+2025-06-09 18:57:15.4122|DEBUG|NMOUSA|Execution plan of authorization filters (in the following order): None 
+2025-06-09 18:57:15.4122|DEBUG|NMOUSA|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 18:57:15.4122|DEBUG|NMOUSA|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-06-09 18:57:15.4166|DEBUG|NMOUSA|Execution plan of exception filters (in the following order): None 
+2025-06-09 18:57:15.4166|DEBUG|NMOUSA|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 18:57:15.4166|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:15.4166|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:15.4166|DEBUG|NMOUSA|Executing controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 18:57:15.4166|DEBUG|NMOUSA|Executed controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 18:57:15.4166|TRACE|NMOUSA|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 18:57:15.4318|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:57:15.4318|TRACE|NMOUSA|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:57:15.4318|INFO|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) - Validation state: Valid 
+2025-06-09 18:57:15.4512|INFO|NMOUSA|Executed action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8307ms. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-06-09 18:57:15.4512|DEBUG|NMOUSA|View lookup cache miss for view 'Login' in controller 'Account'. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Located compiled view for view at path '/Views/Account/Login.cshtml'. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Could not find a file for view at path '/Views/Account/_ViewStart.cshtml'. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2025-06-09 18:57:15.4512|TRACE|NMOUSA|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2025-06-09 18:57:15.4704|INFO|NMOUSA|Executing ViewResult, running view Login. 
+2025-06-09 18:57:15.4704|DEBUG|NMOUSA|The view path '/Views/Account/Login.cshtml' was found in 15.4021ms. 
+2025-06-09 18:57:15.5149|TRACE|NMOUSA|Performing unprotect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-06-09 18:57:15.5149|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-06-09 18:57:15.5149|DEBUG|NMOUSA|An antiforgery cookie token was reused. 
+2025-06-09 18:57:15.5349|DEBUG|NMOUSA|View lookup cache miss for view '_LoginLayout' in controller 'Account'. 
+2025-06-09 18:57:15.5349|TRACE|NMOUSA|Could not find a file for view at path '/Views/Account/_LoginLayout.cshtml'. 
+2025-06-09 18:57:15.5349|TRACE|NMOUSA|Located compiled view for view at path '/Views/Shared/_LoginLayout.cshtml'. 
+2025-06-09 18:57:15.5907|DEBUG|NMOUSA|Response markup is scheduled to include Browser Link script injection. 
+2025-06-09 18:57:15.5907|DEBUG|NMOUSA|Response markup is scheduled to include browser refresh script injection. 
+2025-06-09 18:57:15.5907|INFO|NMOUSA|Executed ViewResult - view Login executed in 147.5233ms. 
+2025-06-09 18:57:15.5907|TRACE|NMOUSA|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-06-09 18:57:15.5907|TRACE|NMOUSA|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:15.5907|TRACE|NMOUSA|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:15.6040|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:15.6040|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:15.6040|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending HEADERS frame for stream ID 3 with length 104 and flags END_HEADERS. 
+2025-06-09 18:57:15.6040|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 3 with length 2959 and flags NONE. 
+2025-06-09 18:57:15.6040|INFO|NMOUSA|Executed action Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) in 187.655ms 
+2025-06-09 18:57:15.6040|INFO|NMOUSA|Executed endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:57:15.6040|DEBUG|NMOUSA|Response markup was updated to include Browser Link script injection. 
+2025-06-09 18:57:15.6040|DEBUG|NMOUSA|Response markup was updated to include browser refresh script injection. 
+2025-06-09 18:57:15.6040|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 3 with length 0 and flags END_STREAM. 
+2025-06-09 18:57:15.6040|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/ - 200 - text/html;+charset=utf-8 418.2338ms 
+2025-06-09 18:57:15.6448|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received HEADERS frame for stream ID 5 with length 102 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 18:57:15.6448|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received WINDOW_UPDATE frame for stream ID 5 with length 4 and flags 0x0. 
+2025-06-09 18:57:15.6508|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received HEADERS frame for stream ID 7 with length 50 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 18:57:15.6508|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received WINDOW_UPDATE frame for stream ID 7 with length 4 and flags 0x0. 
+2025-06-09 18:57:15.6661|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 
+2025-06-09 18:57:15.6661|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 
+2025-06-09 18:57:15.6661|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending HEADERS frame for stream ID 7 with length 60 and flags END_HEADERS. 
+2025-06-09 18:57:15.6824|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 7 with length 16384 and flags NONE. 
+2025-06-09 18:57:15.6824|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 7 with length 135 and flags NONE. 
+2025-06-09 18:57:15.6824|DEBUG|NMOUSA|Script injected: /_framework/aspnetcore-browser-refresh.js 
+2025-06-09 18:57:15.6824|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - 200 16519 application/javascript;+charset=utf-8 27.6612ms 
+2025-06-09 18:57:15.6824|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 7 with length 0 and flags END_STREAM. 
+2025-06-09 18:57:15.7279|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending HEADERS frame for stream ID 5 with length 119 and flags END_HEADERS. 
+2025-06-09 18:57:15.7288|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 9986 and flags NONE. 
+2025-06-09 18:57:15.7288|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7288|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7288|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7288|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7288|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7288|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7288|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 1806 and flags NONE. 
+2025-06-09 18:57:15.7456|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 5 with length 0 and flags END_STREAM. 
+2025-06-09 18:57:15.7456|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 87.3293ms 
+2025-06-09 18:57:37.7714|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received HEADERS frame for stream ID 9 with length 87 and flags END_HEADERS, PRIORITY. 
+2025-06-09 18:57:37.7714|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received WINDOW_UPDATE frame for stream ID 9 with length 4 and flags 0x0. 
+2025-06-09 18:57:37.7714|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received DATA frame for stream ID 9 with length 213 and flags END_STREAM. 
+2025-06-09 18:57:37.7714|INFO|NMOUSA|Request starting HTTP/2 POST https://localhost:7162/Account/Login - application/x-www-form-urlencoded 213 
+2025-06-09 18:57:37.7927|TRACE|NMOUSA|All hosts are allowed. 
+2025-06-09 18:57:37.7927|DEBUG|NMOUSA|AuthenticationScheme: Cookies was not authenticated. 
+2025-06-09 18:57:37.7927|DEBUG|NMOUSA|POST requests are not supported 
+2025-06-09 18:57:37.7927|DEBUG|NMOUSA|2 candidate(s) found for the request path '/Account/Login' 
+2025-06-09 18:57:37.7927|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/Account/Login' 
+2025-06-09 18:57:37.7927|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/Account/Login' 
+2025-06-09 18:57:37.7927|DEBUG|NMOUSA|Request matched endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:57:37.7927|TRACE|NMOUSA|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2025-06-09 18:57:37.7927|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'SessionMiddleware'). 
+2025-06-09 18:57:37.7927|INFO|NMOUSA|Executing endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:57:37.8208|INFO|NMOUSA|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Microblogging.MVC.Models.Users.LoginModel) on controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC). 
+2025-06-09 18:57:37.8208|DEBUG|NMOUSA|Execution plan of authorization filters (in the following order): None 
+2025-06-09 18:57:37.8208|DEBUG|NMOUSA|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 18:57:37.8208|DEBUG|NMOUSA|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-06-09 18:57:37.8208|DEBUG|NMOUSA|Execution plan of exception filters (in the following order): None 
+2025-06-09 18:57:37.8208|DEBUG|NMOUSA|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 18:57:37.8208|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:37.8208|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:37.8208|DEBUG|NMOUSA|Executing controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 18:57:37.8227|DEBUG|NMOUSA|Executed controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 18:57:37.8227|DEBUG|NMOUSA|Connection id "0HND7DP6PVKO0", Request id "0HND7DP6PVKO0:00000009": started reading request body. 
+2025-06-09 18:57:37.8227|DEBUG|NMOUSA|Connection id "0HND7DP6PVKO0", Request id "0HND7DP6PVKO0:00000009": done reading request body. 
+2025-06-09 18:57:37.8227|DEBUG|NMOUSA|Attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' ... 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' using the name '' in request data ... 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.UserName' of type 'System.String' using the name 'UserName' in request data ... 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Done attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.UserName' of type 'System.String'. 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.Password' of type 'System.String' using the name 'Password' in request data ... 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Done attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.Password' of type 'System.String'. 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Done attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Done attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Attempting to validate the bound parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' ... 
+2025-06-09 18:57:37.8375|DEBUG|NMOUSA|Done attempting to validate the bound parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 18:57:37.8375|TRACE|NMOUSA|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 18:57:37.8375|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:57:37.8536|TRACE|NMOUSA|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:57:37.8536|INFO|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) - Validation state: Valid 
+2025-06-09 18:57:37.8536|TRACE|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) with arguments (Microblogging.MVC.Models.Users.LoginModel) 
+2025-06-09 18:57:40.7052|INFO|NMOUSA|Executed action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2850.8303ms. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-06-09 18:57:40.7052|DEBUG|NMOUSA|View lookup cache hit for view 'Login' in controller 'Account'. 
+2025-06-09 18:57:40.7052|INFO|NMOUSA|Executing ViewResult, running view Login. 
+2025-06-09 18:57:40.7052|DEBUG|NMOUSA|The view path '/Views/Account/Login.cshtml' was found in 0.4958ms. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Performing unprotect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-06-09 18:57:40.7052|DEBUG|NMOUSA|An antiforgery cookie token was reused. 
+2025-06-09 18:57:40.7052|DEBUG|NMOUSA|View lookup cache hit for view '_LoginLayout' in controller 'Account'. 
+2025-06-09 18:57:40.7052|DEBUG|NMOUSA|Response markup is scheduled to include Browser Link script injection. 
+2025-06-09 18:57:40.7052|DEBUG|NMOUSA|Response markup is scheduled to include browser refresh script injection. 
+2025-06-09 18:57:40.7052|INFO|NMOUSA|Executed ViewResult - view Login executed in 4.7088ms. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending HEADERS frame for stream ID 9 with length 36 and flags END_HEADERS. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 9 with length 2959 and flags NONE. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 18:57:40.7052|INFO|NMOUSA|Executed action Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) in 2891.025ms 
+2025-06-09 18:57:40.7052|INFO|NMOUSA|Executed endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 18:57:40.7052|DEBUG|NMOUSA|Response markup was updated to include Browser Link script injection. 
+2025-06-09 18:57:40.7052|DEBUG|NMOUSA|Response markup was updated to include browser refresh script injection. 
+2025-06-09 18:57:40.7052|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 9 with length 0 and flags END_STREAM. 
+2025-06-09 18:57:40.7130|INFO|NMOUSA|Request finished HTTP/2 POST https://localhost:7162/Account/Login - 200 - text/html;+charset=utf-8 2940.2724ms 
+2025-06-09 18:57:40.7297|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received HEADERS frame for stream ID 11 with length 85 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 18:57:40.7297|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received WINDOW_UPDATE frame for stream ID 11 with length 4 and flags 0x0. 
+2025-06-09 18:57:40.7297|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 
+2025-06-09 18:57:40.7297|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received HEADERS frame for stream ID 13 with length 50 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 18:57:40.7297|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" received WINDOW_UPDATE frame for stream ID 13 with length 4 and flags 0x0. 
+2025-06-09 18:57:40.7297|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 
+2025-06-09 18:57:40.7297|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending HEADERS frame for stream ID 13 with length 13 and flags END_HEADERS. 
+2025-06-09 18:57:40.7297|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 13 with length 16384 and flags NONE. 
+2025-06-09 18:57:40.7297|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 13 with length 135 and flags NONE. 
+2025-06-09 18:57:40.7297|DEBUG|NMOUSA|Script injected: /_framework/aspnetcore-browser-refresh.js 
+2025-06-09 18:57:40.7297|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - 200 16519 application/javascript;+charset=utf-8 9.4193ms 
+2025-06-09 18:57:40.7297|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 13 with length 0 and flags END_STREAM. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending HEADERS frame for stream ID 11 with length 66 and flags END_HEADERS. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 9986 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 1806 and flags NONE. 
+2025-06-09 18:57:40.7494|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 29.1978ms 
+2025-06-09 18:57:40.7494|TRACE|NMOUSA|Connection id "0HND7DP6PVKO0" sending DATA frame for stream ID 11 with length 0 and flags END_STREAM. 
+2025-06-09 19:00:10.2539|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Posts/AddPost.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_LoginLayout.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2025-06-09 19:00:10.2801|DEBUG|NMOUSA|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2025-06-09 19:00:10.3707|DEBUG|NMOUSA|Hosting starting 
+2025-06-09 19:00:10.4309|INFO|NMOUSA|User profile is available. Using 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-06-09 19:00:10.4452|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-3d35feb8-71e6-4e96-b8f4-bf53e43234fd.xml'. 
+2025-06-09 19:00:10.4486|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-6dcb7008-2e7b-4286-aac4-14be5c0e5ffb.xml'. 
+2025-06-09 19:00:10.4486|DEBUG|NMOUSA|Reading data from file 'C:\Users\naira.mousa.ITSC-EGYPT\AppData\Local\ASP.NET\DataProtection-Keys\key-d0f7c814-a22c-485f-93fe-2d1af7948711.xml'. 
+2025-06-09 19:00:10.4630|DEBUG|NMOUSA|Found key {3d35feb8-71e6-4e96-b8f4-bf53e43234fd}. 
+2025-06-09 19:00:10.4630|DEBUG|NMOUSA|Found key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb}. 
+2025-06-09 19:00:10.4630|DEBUG|NMOUSA|Found key {d0f7c814-a22c-485f-93fe-2d1af7948711}. 
+2025-06-09 19:00:10.4841|DEBUG|NMOUSA|Considering key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with expiration date 2025-07-22 09:18:18Z as default key. 
+2025-06-09 19:00:10.4841|DEBUG|NMOUSA|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-06-09 19:00:10.4841|DEBUG|NMOUSA|Decrypting secret element using Windows DPAPI. 
+2025-06-09 19:00:10.4947|DEBUG|NMOUSA|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-06-09 19:00:10.4947|DEBUG|NMOUSA|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2025-06-09 19:00:10.4947|DEBUG|NMOUSA|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2025-06-09 19:00:10.4947|DEBUG|NMOUSA|Using key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} as the default key. 
+2025-06-09 19:00:10.4947|DEBUG|NMOUSA|Key ring with default key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} was loaded during application startup. 
+2025-06-09 19:00:10.5165|DEBUG|NMOUSA|Middleware loaded 
+2025-06-09 19:00:10.5165|DEBUG|NMOUSA|Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16519 B). 
+2025-06-09 19:00:10.5165|DEBUG|NMOUSA|Middleware loaded. Script /_framework/blazor-hotreload.js (799 B). 
+2025-06-09 19:00:10.5826|DEBUG|NMOUSA|Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true 
+2025-06-09 19:00:10.6833|INFO|NMOUSA|Now listening on: https://localhost:7162 
+2025-06-09 19:00:10.6833|INFO|NMOUSA|Now listening on: http://localhost:5051 
+2025-06-09 19:00:10.6833|DEBUG|NMOUSA|Loaded hosting startup assembly Microblogging.MVC 
+2025-06-09 19:00:10.6833|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2025-06-09 19:00:10.6833|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2025-06-09 19:00:10.6833|DEBUG|NMOUSA|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2025-06-09 19:00:10.7449|INFO|NMOUSA|Application started. Press Ctrl+C to shut down. 
+2025-06-09 19:00:10.7449|INFO|NMOUSA|Hosting environment: Development 
+2025-06-09 19:00:10.7449|INFO|NMOUSA|Content root path: D:\microblogging\Microblogging.MVC 
+2025-06-09 19:00:10.7449|DEBUG|NMOUSA|Hosting started 
+2025-06-09 19:00:10.8822|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBC" accepted. 
+2025-06-09 19:00:10.8822|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBB" accepted. 
+2025-06-09 19:00:10.8822|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBC" started. 
+2025-06-09 19:00:10.8822|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBB" started. 
+2025-06-09 19:00:10.8953|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBB" received FIN. 
+2025-06-09 19:00:10.8953|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBC" received FIN. 
+2025-06-09 19:00:10.9308|DEBUG|NMOUSA|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.    at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)    at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)    at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-06-09 19:00:10.9308|DEBUG|NMOUSA|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.    at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)    at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)    at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-06-09 19:00:10.9706|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBC" stopped. 
+2025-06-09 19:00:10.9706|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBB" stopped. 
+2025-06-09 19:00:10.9706|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBB" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-06-09 19:00:10.9706|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBC" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-06-09 19:00:11.2373|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBD" accepted. 
+2025-06-09 19:00:11.2373|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBD" started. 
+2025-06-09 19:00:11.3317|DEBUG|NMOUSA|Connection 0HND7DQRA4SBD established using the following protocol: Tls12 
+2025-06-09 19:00:11.3640|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-06-09 19:00:11.3640|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-06-09 19:00:11.3640|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-06-09 19:00:11.3640|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2025-06-09 19:00:11.3692|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-06-09 19:00:11.3692|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received HEADERS frame for stream ID 3 with length 437 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 19:00:11.3884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received WINDOW_UPDATE frame for stream ID 3 with length 4 and flags 0x0. 
+2025-06-09 19:00:11.3884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2025-06-09 19:00:11.4230|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/ - - - 
+2025-06-09 19:00:11.5831|DEBUG|NMOUSA|Wildcard detected, all requests with hosts will be allowed. 
+2025-06-09 19:00:11.5831|TRACE|NMOUSA|All hosts are allowed. 
+2025-06-09 19:00:11.5981|DEBUG|NMOUSA|AuthenticationScheme: Cookies was not authenticated. 
+2025-06-09 19:00:11.5981|DEBUG|NMOUSA|The request path / does not match a supported file type 
+2025-06-09 19:00:11.6366|DEBUG|NMOUSA|1 candidate(s) found for the request path '/' 
+2025-06-09 19:00:11.6366|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/' 
+2025-06-09 19:00:11.6366|DEBUG|NMOUSA|Request matched endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 19:00:11.6366|TRACE|NMOUSA|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2025-06-09 19:00:11.6558|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'SessionMiddleware'). 
+2025-06-09 19:00:11.6558|INFO|NMOUSA|Executing endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 19:00:11.7467|INFO|NMOUSA|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC). 
+2025-06-09 19:00:11.7467|DEBUG|NMOUSA|Execution plan of authorization filters (in the following order): None 
+2025-06-09 19:00:11.7467|DEBUG|NMOUSA|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 19:00:11.7467|DEBUG|NMOUSA|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-06-09 19:00:11.7467|DEBUG|NMOUSA|Execution plan of exception filters (in the following order): None 
+2025-06-09 19:00:11.7467|DEBUG|NMOUSA|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 19:00:11.7467|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:11.7467|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:11.7467|DEBUG|NMOUSA|Executing controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 19:00:11.7821|DEBUG|NMOUSA|Executed controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 19:00:11.7821|TRACE|NMOUSA|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 19:00:11.7821|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 19:00:11.7821|TRACE|NMOUSA|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 19:00:11.8004|INFO|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) - Validation state: Valid 
+2025-06-09 19:00:11.8183|INFO|NMOUSA|Executed action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.1732ms. 
+2025-06-09 19:00:11.8183|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 19:00:11.8183|TRACE|NMOUSA|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 19:00:11.8183|TRACE|NMOUSA|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 19:00:11.8183|TRACE|NMOUSA|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:11.8183|TRACE|NMOUSA|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:11.8183|TRACE|NMOUSA|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-06-09 19:00:11.8266|DEBUG|NMOUSA|View lookup cache miss for view 'Login' in controller 'Account'. 
+2025-06-09 19:00:11.8266|TRACE|NMOUSA|Located compiled view for view at path '/Views/Account/Login.cshtml'. 
+2025-06-09 19:00:11.8266|TRACE|NMOUSA|Could not find a file for view at path '/Views/Account/_ViewStart.cshtml'. 
+2025-06-09 19:00:11.8266|TRACE|NMOUSA|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2025-06-09 19:00:11.8266|TRACE|NMOUSA|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2025-06-09 19:00:11.8393|INFO|NMOUSA|Executing ViewResult, running view Login. 
+2025-06-09 19:00:11.8393|DEBUG|NMOUSA|The view path '/Views/Account/Login.cshtml' was found in 14.5599ms. 
+2025-06-09 19:00:11.8930|TRACE|NMOUSA|Performing unprotect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-06-09 19:00:11.8930|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-06-09 19:00:11.8930|DEBUG|NMOUSA|An antiforgery cookie token was reused. 
+2025-06-09 19:00:11.9179|DEBUG|NMOUSA|View lookup cache miss for view '_LoginLayout' in controller 'Account'. 
+2025-06-09 19:00:11.9179|TRACE|NMOUSA|Could not find a file for view at path '/Views/Account/_LoginLayout.cshtml'. 
+2025-06-09 19:00:11.9179|TRACE|NMOUSA|Located compiled view for view at path '/Views/Shared/_LoginLayout.cshtml'. 
+2025-06-09 19:00:11.9715|DEBUG|NMOUSA|Response markup is scheduled to include Browser Link script injection. 
+2025-06-09 19:00:11.9790|DEBUG|NMOUSA|Response markup is scheduled to include browser refresh script injection. 
+2025-06-09 19:00:11.9790|INFO|NMOUSA|Executed ViewResult - view Login executed in 160.2017ms. 
+2025-06-09 19:00:11.9790|TRACE|NMOUSA|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-06-09 19:00:11.9790|TRACE|NMOUSA|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:11.9790|TRACE|NMOUSA|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:11.9790|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending HEADERS frame for stream ID 3 with length 104 and flags END_HEADERS. 
+2025-06-09 19:00:11.9790|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:11.9790|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 3 with length 2959 and flags NONE. 
+2025-06-09 19:00:11.9790|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:11.9952|INFO|NMOUSA|Executed action Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) in 241.4874ms 
+2025-06-09 19:00:11.9952|INFO|NMOUSA|Executed endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 19:00:11.9952|DEBUG|NMOUSA|Response markup was updated to include Browser Link script injection. 
+2025-06-09 19:00:11.9952|DEBUG|NMOUSA|Response markup was updated to include browser refresh script injection. 
+2025-06-09 19:00:11.9952|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 3 with length 0 and flags END_STREAM. 
+2025-06-09 19:00:11.9952|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/ - 200 - text/html;+charset=utf-8 582.1871ms 
+2025-06-09 19:00:12.0249|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received HEADERS frame for stream ID 5 with length 102 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 19:00:12.0277|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received WINDOW_UPDATE frame for stream ID 5 with length 4 and flags 0x0. 
+2025-06-09 19:00:12.0277|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received HEADERS frame for stream ID 7 with length 50 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 19:00:12.0277|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 
+2025-06-09 19:00:12.0277|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received WINDOW_UPDATE frame for stream ID 7 with length 4 and flags 0x0. 
+2025-06-09 19:00:12.0277|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 
+2025-06-09 19:00:12.0277|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending HEADERS frame for stream ID 7 with length 60 and flags END_HEADERS. 
+2025-06-09 19:00:12.0277|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 7 with length 16384 and flags NONE. 
+2025-06-09 19:00:12.0445|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 7 with length 135 and flags NONE. 
+2025-06-09 19:00:12.0445|DEBUG|NMOUSA|Script injected: /_framework/aspnetcore-browser-refresh.js 
+2025-06-09 19:00:12.0445|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 7 with length 0 and flags END_STREAM. 
+2025-06-09 19:00:12.0445|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - 200 16519 application/javascript;+charset=utf-8 20.1091ms 
+2025-06-09 19:00:12.0821|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending HEADERS frame for stream ID 5 with length 119 and flags END_HEADERS. 
+2025-06-09 19:00:12.0821|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 9986 and flags NONE. 
+2025-06-09 19:00:12.0821|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0821|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 1806 and flags NONE. 
+2025-06-09 19:00:12.0884|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 5 with length 0 and flags END_STREAM. 
+2025-06-09 19:00:12.0884|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 72.9599ms 
+2025-06-09 19:00:32.5850|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received HEADERS frame for stream ID 9 with length 87 and flags END_HEADERS, PRIORITY. 
+2025-06-09 19:00:32.5850|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received WINDOW_UPDATE frame for stream ID 9 with length 4 and flags 0x0. 
+2025-06-09 19:00:32.5850|INFO|NMOUSA|Request starting HTTP/2 POST https://localhost:7162/Account/Login - application/x-www-form-urlencoded 213 
+2025-06-09 19:00:32.5877|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received DATA frame for stream ID 9 with length 213 and flags END_STREAM. 
+2025-06-09 19:00:32.6204|TRACE|NMOUSA|All hosts are allowed. 
+2025-06-09 19:00:32.6204|DEBUG|NMOUSA|AuthenticationScheme: Cookies was not authenticated. 
+2025-06-09 19:00:32.6204|DEBUG|NMOUSA|POST requests are not supported 
+2025-06-09 19:00:32.6204|DEBUG|NMOUSA|2 candidate(s) found for the request path '/Account/Login' 
+2025-06-09 19:00:32.6204|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/Account/Login' 
+2025-06-09 19:00:32.6204|DEBUG|NMOUSA|Endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' with route pattern '{controller=Account}/{action=Login}' is valid for the request path '/Account/Login' 
+2025-06-09 19:00:32.6204|DEBUG|NMOUSA|Request matched endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 19:00:32.6204|TRACE|NMOUSA|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2025-06-09 19:00:32.6204|TRACE|NMOUSA|Performing protect operation to key {6dcb7008-2e7b-4286-aac4-14be5c0e5ffb} with purposes ('D:\microblogging\Microblogging.MVC\', 'SessionMiddleware'). 
+2025-06-09 19:00:32.6204|INFO|NMOUSA|Executing endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 19:00:32.6549|INFO|NMOUSA|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Microblogging.MVC.Models.Users.LoginModel) on controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC). 
+2025-06-09 19:00:32.6549|DEBUG|NMOUSA|Execution plan of authorization filters (in the following order): None 
+2025-06-09 19:00:32.6549|DEBUG|NMOUSA|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 19:00:32.6549|DEBUG|NMOUSA|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-06-09 19:00:32.6549|DEBUG|NMOUSA|Execution plan of exception filters (in the following order): None 
+2025-06-09 19:00:32.6549|DEBUG|NMOUSA|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-06-09 19:00:32.6549|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:32.6549|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:32.6549|DEBUG|NMOUSA|Executing controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 19:00:32.6549|DEBUG|NMOUSA|Executed controller factory for controller Microblogging.MVC.Controllers.AccountController (Microblogging.MVC) 
+2025-06-09 19:00:32.6673|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBD", Request id "0HND7DQRA4SBD:00000009": started reading request body. 
+2025-06-09 19:00:32.6673|DEBUG|NMOUSA|Connection id "0HND7DQRA4SBD", Request id "0HND7DQRA4SBD:00000009": done reading request body. 
+2025-06-09 19:00:32.6825|DEBUG|NMOUSA|Attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' ... 
+2025-06-09 19:00:32.6825|DEBUG|NMOUSA|Attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' using the name '' in request data ... 
+2025-06-09 19:00:32.6825|DEBUG|NMOUSA|Attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.UserName' of type 'System.String' using the name 'UserName' in request data ... 
+2025-06-09 19:00:32.6996|DEBUG|NMOUSA|Done attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.UserName' of type 'System.String'. 
+2025-06-09 19:00:32.6996|DEBUG|NMOUSA|Attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.Password' of type 'System.String' using the name 'Password' in request data ... 
+2025-06-09 19:00:32.6996|DEBUG|NMOUSA|Done attempting to bind property 'Microblogging.MVC.Models.Users.LoginModel.Password' of type 'System.String'. 
+2025-06-09 19:00:32.6996|DEBUG|NMOUSA|Done attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 19:00:32.6996|DEBUG|NMOUSA|Done attempting to bind parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 19:00:32.6996|DEBUG|NMOUSA|Attempting to validate the bound parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel' ... 
+2025-06-09 19:00:32.7206|DEBUG|NMOUSA|Done attempting to validate the bound parameter '_model' of type 'Microblogging.MVC.Models.Users.LoginModel'. 
+2025-06-09 19:00:32.7206|TRACE|NMOUSA|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 19:00:32.7206|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 19:00:32.7206|TRACE|NMOUSA|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 19:00:32.7206|INFO|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) - Validation state: Valid 
+2025-06-09 19:00:32.7206|TRACE|NMOUSA|Executing action method Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) with arguments (Microblogging.MVC.Models.Users.LoginModel) 
+2025-06-09 19:00:36.1502|TRACE|NMOUSA|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 19:00:36.1502|TRACE|NMOUSA|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-06-09 19:00:36.1502|TRACE|NMOUSA|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-06-09 19:00:36.1502|TRACE|NMOUSA|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:36.1502|TRACE|NMOUSA|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-06-09 19:00:36.1502|INFO|NMOUSA|Executed action Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC) in 3497.2182ms 
+2025-06-09 19:00:36.1502|INFO|NMOUSA|Executed endpoint 'Microblogging.MVC.Controllers.AccountController.Login (Microblogging.MVC)' 
+2025-06-09 19:00:36.1502|ERROR|NMOUSA|An unhandled exception has occurred while executing the request. System.NullReferenceException: Object reference not set to an instance of an object.    at Microblogging.MVC.Controllers.AccountController.Login(LoginModel _model) in D:\microblogging\Microblogging.MVC\Controllers\AccountController.cs:line 42    at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync() --- End of stack trace from previous location ---    at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)    at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)    at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)    at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync() --- End of stack trace from previous location ---    at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)    at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)    at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)    at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)    at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)    at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)    at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)    at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-09 19:00:36.2310|DEBUG|NMOUSA|Response markup is scheduled to include Browser Link script injection. 
+2025-06-09 19:00:36.2310|DEBUG|NMOUSA|Response markup is scheduled to include browser refresh script injection. 
+2025-06-09 19:00:36.2310|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending HEADERS frame for stream ID 9 with length 34 and flags END_HEADERS. 
+2025-06-09 19:00:36.2310|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 9 with length 16384 and flags NONE. 
+2025-06-09 19:00:36.2310|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 9 with length 13758 and flags NONE. 
+2025-06-09 19:00:36.2491|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 9 with length 440 and flags NONE. 
+2025-06-09 19:00:36.2491|DEBUG|NMOUSA|Response markup was updated to include Browser Link script injection. 
+2025-06-09 19:00:36.2491|DEBUG|NMOUSA|Response markup was updated to include browser refresh script injection. 
+2025-06-09 19:00:36.2491|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 9 with length 0 and flags END_STREAM. 
+2025-06-09 19:00:36.2491|INFO|NMOUSA|Request finished HTTP/2 POST https://localhost:7162/Account/Login - 500 - text/html;+charset=utf-8 3665.4093ms 
+2025-06-09 19:00:36.2643|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received HEADERS frame for stream ID 11 with length 85 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 19:00:36.2643|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received WINDOW_UPDATE frame for stream ID 11 with length 4 and flags 0x0. 
+2025-06-09 19:00:36.2643|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 
+2025-06-09 19:00:36.2643|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received HEADERS frame for stream ID 13 with length 50 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 19:00:36.2643|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received WINDOW_UPDATE frame for stream ID 13 with length 4 and flags 0x0. 
+2025-06-09 19:00:36.2643|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 
+2025-06-09 19:00:36.2643|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending HEADERS frame for stream ID 13 with length 13 and flags END_HEADERS. 
+2025-06-09 19:00:36.2643|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 13 with length 16384 and flags NONE. 
+2025-06-09 19:00:36.2643|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 13 with length 135 and flags NONE. 
+2025-06-09 19:00:36.2643|DEBUG|NMOUSA|Script injected: /_framework/aspnetcore-browser-refresh.js 
+2025-06-09 19:00:36.2643|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 13 with length 0 and flags END_STREAM. 
+2025-06-09 19:00:36.2643|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - 200 16519 application/javascript;+charset=utf-8 2.6536ms 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending HEADERS frame for stream ID 11 with length 66 and flags END_HEADERS. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 9986 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2824|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-06-09 19:00:36.2913|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 1806 and flags NONE. 
+2025-06-09 19:00:36.2913|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 26.6273ms 
+2025-06-09 19:00:36.2913|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 11 with length 0 and flags END_STREAM. 
+2025-06-09 19:00:36.2913|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received HEADERS frame for stream ID 15 with length 96 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-06-09 19:00:36.2913|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" received WINDOW_UPDATE frame for stream ID 15 with length 4 and flags 0x0. 
+2025-06-09 19:00:36.2913|INFO|NMOUSA|Request starting HTTP/2 GET https://localhost:7162/favicon.ico - - - 
+2025-06-09 19:00:36.2913|TRACE|NMOUSA|All hosts are allowed. 
+2025-06-09 19:00:36.2913|DEBUG|NMOUSA|AuthenticationScheme: Cookies was not authenticated. 
+2025-06-09 19:00:36.2913|TRACE|NMOUSA|Range header's value is empty. 
+2025-06-09 19:00:36.2913|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending HEADERS frame for stream ID 15 with length 81 and flags END_HEADERS. 
+2025-06-09 19:00:36.2913|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 15 with length 5430 and flags NONE. 
+2025-06-09 19:00:36.3119|INFO|NMOUSA|Sending file. Request path: '/favicon.ico'. Physical path: 'D:\microblogging\Microblogging.MVC\wwwroot\favicon.ico' 
+2025-06-09 19:00:36.3119|TRACE|NMOUSA|Connection id "0HND7DQRA4SBD" sending DATA frame for stream ID 15 with length 0 and flags END_STREAM. 
+2025-06-09 19:00:36.3119|INFO|NMOUSA|Request finished HTTP/2 GET https://localhost:7162/favicon.ico - 200 5430 image/x-icon 18.9565ms 

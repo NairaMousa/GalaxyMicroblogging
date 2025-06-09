@@ -1,0 +1,45 @@
+﻿@model Microblogging.MVC.Models.Posts.NewPostModel
+
+
+<div class="widget bg-dark p-4 text-center">
+    
+    
+    
+    
+    <h2 class="widget-title text-white d-inline-block mt-4">New Post</h2>
+    <form action="~/Posts/AddPost" method="post" enctype="multipart/form-data">
+        <input type="hidden" id="Latitude" name="Latitude" />
+        <input type="hidden" id="Longitude" name="Longitude" />
+
+        <div class="form-group">
+            @Html.TextAreaFor(
+                     model => model.Text, new { @class = "form-control bg-transparent rounded-0 my-4", rows = 5})
+            <span asp-validation-for="Text" class="text-danger"></span>
+          @*   <textarea class="form-control bg-transparent rounded-0 my-4"  placeholder="Enter Your text here!"    id="exampleFormControlTextarea1" rows="3"></textarea> *@
+            <div class="input-group mb-3">
+            
+
+                <input type="file" name="ImageFile" class="form-control bg-transparent rounded-0 my-4" id="inputGroupFile01">
+            </div>
+            <button type="submit" class="btn btn-primary">Post <img src="~/plugins/images/arrow-right.png" alt=""></button>
+        </div>
+    </form>
+</div>
+
+
+<script>
+    window.onload = function () {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function (position) {
+                document.getElementById("Latitude").value = position.coords.latitude;
+                document.getElementById("Longitude").value = position.coords.longitude;
+            }, function (error) {
+                console.error("Geolocation error: ", error.message);
+            });
+        } else {
+            alert("Geolocation is not supported by this browser.");
+        }
+    };
+
+  
+</script>

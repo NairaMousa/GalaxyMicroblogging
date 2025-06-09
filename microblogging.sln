@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microblogging.API", "microblogging\Microblogging.API.csproj", "{466EB7BD-E179-4B4B-9388-B6DD79D602B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microblogging.Service", "Microblogging.Service\Microblogging.Service.csproj", "{D45DBA9F-BF04-4D20-A217-0C3972A88899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microblogging.Repository", "Microblogging.Repository\Microblogging.Repository.csproj", "{3991C982-A56D-4FB8-A82D-567AC4B9CC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microblogging.Data", "Microblogging.Data\Microblogging.Data.csproj", "{F4813F09-9FFA-4AEE-8FD4-CACB02D39B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microblogging.Helper", "Microblogging.Helper\Microblogging.Helper.csproj", "{D0099FCE-C08B-406A-A679-398BFB5436EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microblogging.MVC", "Microblogging.MVC\Microblogging.MVC.csproj", "{38C8DFC3-44ED-4368-A98E-0B574383758D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{466EB7BD-E179-4B4B-9388-B6DD79D602B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466EB7BD-E179-4B4B-9388-B6DD79D602B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466EB7BD-E179-4B4B-9388-B6DD79D602B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466EB7BD-E179-4B4B-9388-B6DD79D602B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45DBA9F-BF04-4D20-A217-0C3972A88899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45DBA9F-BF04-4D20-A217-0C3972A88899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45DBA9F-BF04-4D20-A217-0C3972A88899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45DBA9F-BF04-4D20-A217-0C3972A88899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3991C982-A56D-4FB8-A82D-567AC4B9CC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3991C982-A56D-4FB8-A82D-567AC4B9CC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3991C982-A56D-4FB8-A82D-567AC4B9CC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3991C982-A56D-4FB8-A82D-567AC4B9CC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4813F09-9FFA-4AEE-8FD4-CACB02D39B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4813F09-9FFA-4AEE-8FD4-CACB02D39B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4813F09-9FFA-4AEE-8FD4-CACB02D39B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4813F09-9FFA-4AEE-8FD4-CACB02D39B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0099FCE-C08B-406A-A679-398BFB5436EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0099FCE-C08B-406A-A679-398BFB5436EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0099FCE-C08B-406A-A679-398BFB5436EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0099FCE-C08B-406A-A679-398BFB5436EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C8DFC3-44ED-4368-A98E-0B574383758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C8DFC3-44ED-4368-A98E-0B574383758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C8DFC3-44ED-4368-A98E-0B574383758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C8DFC3-44ED-4368-A98E-0B574383758D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607B0BF7-498F-471F-AA70-69C4CA2FF96B}
+	EndGlobalSection
+EndGlobal

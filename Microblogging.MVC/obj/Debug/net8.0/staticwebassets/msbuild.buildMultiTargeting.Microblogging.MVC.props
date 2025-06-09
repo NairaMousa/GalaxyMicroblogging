@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Microblogging.MVC.props" />
+</Project>
