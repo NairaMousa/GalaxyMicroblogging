@@ -17,7 +17,7 @@ namespace Microblogging.MVC.Models.Posts
         public double Longitude { get; set; }
 
         [MaxFileSize(2 * 1024 * 1024)] // 2 MB limit
-        public IFormFile  ImageFile { get; set; } = default!;
+        public IFormFile?  ImageFile { get; set; } = default!;
 
 
     }

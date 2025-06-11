@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microblogging.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7cb540559375d12981e524aad320ba64af493cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be606ff93dbaf7c76fccd7fcd6423832b4417520")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microblogging.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microblogging.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
