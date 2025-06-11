@@ -58,33 +58,33 @@ namespace Microblogging.MVC.Controllers
 
 
 
-
+                    
                     using var content = new MultipartFormDataContent();
-                  
-                      
-                    if (_model.ImageFile!= null)
-                    {
-                        using var imageStream = _model.ImageFile.OpenReadStream();
-                        var imageContent = new StreamContent(imageStream);
-                        imageContent.Headers.ContentType = new MediaTypeHeaderValue(_model.ImageFile.ContentType);
-                        content.Add(imageContent, "ImageFile", _model.ImageFile.FileName);
-                    }
-                 
+                    
 
-                    content.Add(new StringContent(_model.Latitude.ToString()), "Latitude");
-                    content.Add(new StringContent(_model.Longitude.ToString()), "Longitude");
-                    content.Add(new StringContent(_model.Text), "Text");
+                        if (_model.ImageFile != null)
+                        {
+                            var imageStream = _model.ImageFile.OpenReadStream();
+                            var imageContent = new StreamContent(imageStream);
+                            imageContent.Headers.ContentType = new MediaTypeHeaderValue(_model.ImageFile.ContentType);
+                            content.Add(imageContent, "ImageFile", _model.ImageFile.FileName);
+                        }
 
 
-                    var response = await _httpClient.PostAsync(_appSettings.APIBaseURL+ "/Posts/AddNewPost", content);
+                        content.Add(new StringContent(_model.Latitude.ToString()), "Latitude");
+                        content.Add(new StringContent(_model.Longitude.ToString()), "Longitude");
+                        content.Add(new StringContent(_model.Text), "Text");
 
-                    if (response.IsSuccessStatusCode == true)
-                    {
-                        return RedirectToAction("Index", "Home");
 
-                    }
-                   
+                        var response = await _httpClient.PostAsync(_appSettings.APIBaseURL + "/Posts/AddNewPost", content);
+                    
+                        if (response.IsSuccessStatusCode == true)
+                        {
+                            return RedirectToAction("Index", "Home");
 
+                        }
+
+                    
 
                 }
             }

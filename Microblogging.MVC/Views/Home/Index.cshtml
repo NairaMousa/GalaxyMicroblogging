@@ -24,34 +24,41 @@
         <div class="col-lg-10">
             @if(Model !=null && Model.Count>0)
             {
-            @foreach (var item in Model)
-            {
-                <div class="card post-item bg-transparent border-0 mb-5">
-                    <a href="post-details.html">
-                        <img class="card-img-top rounded-0" width="200" height="500" src="@item.ImagePath" alt="">
-                    </a>
-                    <div class="card-body px-0">
-                        <h2 class="card-title">
-                                <a class="text-white opacity-75-onHover" href="post-details.html">@item.Text</a>
-                        </h2>
-                        <ul class="post-meta mt-3">
-                            <li class="d-inline-block mr-3">
-                                <span class="fas fa-clock text-primary"></span>
-                                <a class="ml-1" href="#">@item.CreatedAt</a>
-                            </li>
-                            <li class="d-inline-block">
-                                <span class="fas fa-list-alt text-primary"></span>
-                                <a class="ml-1" href="#">@item.UserName</a>
-                            </li>
-                        </ul>
-                        
-                        
+                @foreach (var item in Model)
+                {
+                    <div class="card post-item bg-transparent border-2  border border-primary mb-5">
+                       
+                            <img class="card-img-top rounded-0"  src="@item.ImagePath" alt="">
+                       
+                        <div class="card-body px-0">
+                            <h2 class="card-title">
+                                <a class="text-white opacity-75-onHover" >@item.Text</a>
+                            </h2>
+                            <ul class="post-meta mt-3">
+                                <li class="d-inline-block mr-3">
+                                    <span class="fas fa-clock text-primary"></span>
+                                    <a class="ml-1" href="#">@item.CreatedAt</a>
+                                </li>
+                                <li class="d-inline-block">
+                                    <span class="fas fa-list-alt text-primary"></span>
+                                    <a class="ml-1" href="#">@item.UserName</a>
+                                </li>
+                            </ul>
+
+
+                        </div>
                     </div>
-                </div>
-       }
+
+                   
                 }
-     
-            </div>
+            }
+            else
+            {
+                <center>
+                <h1>No Posts</h1>
+                </center>
+            }
+        </div>
      
         </div>
     </div>
